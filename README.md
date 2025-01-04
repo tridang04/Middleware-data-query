@@ -95,7 +95,7 @@ Nếu chưa cài, bạn có thể tải Git từ git-scm.com và cài đặt.
    Hoặc tạo 1 thư mục chứa project, ấn chuột phải vào thư mục chọn lệnh "Git Bash Here"
 3. Chạy lệnh clone:
    ```bash
-   git clone https://github.com/Congvinh2004/Digital_Maketing_CSDLNC
+   git clone https://github.com/tridang04/Middleware-data-query.git
    ```
 4. Clone xong kiểm tra
 - Sau khi clone xong, bạn sẽ có một thư mục với tên của repository chứa toàn bộ project.
